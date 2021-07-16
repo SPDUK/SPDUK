@@ -1,6 +1,15 @@
- <h3>Hi there 👋</h3>
+
+ 
+
+
+<div align="center"> 
+  <h3>Hi there 👋</h3>
+
+  [![Steves's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPDUK&show_icons=true&title_color=61afef&icon_color=98c379&text_color=e3e5e8&bg_color=282c34)](https://github.com/SPDUK)
 
 I like writing code and helping other people write code too. If I'm not at work I'll probably be doing a side project or on discord helping others 😎
+</div>
+
 
 ### Languages
 
