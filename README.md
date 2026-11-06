@@ -14,8 +14,8 @@
 </p>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/ai-lol-mobile.png">
-  <source media="(max-width: 600px)" srcset="assets/ai-lol-mobile.gif">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ai-lol.png">
-  <img src="assets/ai-lol.gif" width="1200" alt="(˶ᵔ ᵕ ᵔ˶) // making stuff with ai lol — a blushing kaomoji with a gentle blink.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/ai-lol-mobile-v2.png">
+  <source media="(max-width: 600px)" srcset="assets/ai-lol-mobile-v2.gif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ai-lol-v2.png">
+  <img src="assets/ai-lol-v2.gif" width="1200" alt="(˶ᵔ ᵕ ᵔ˶) // making stuff with ai lol — a tiny bot types, thinks, and gives a happy hop.">
 </picture>
