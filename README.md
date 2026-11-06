@@ -14,8 +14,8 @@
 </p>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/ai-lol-mobile-v2.png">
-  <source media="(max-width: 600px)" srcset="assets/ai-lol-mobile-v2.gif">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ai-lol-v2.png">
-  <img src="assets/ai-lol-v2.gif" width="1200" alt="(˶ᵔ ᵕ ᵔ˶) // making stuff with ai lol — a tiny bot types, thinks, and gives a happy hop.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/ai-lol-mobile-v3.png">
+  <source media="(max-width: 600px)" srcset="assets/ai-lol-mobile-v3.gif">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/ai-lol-v3.png">
+  <img src="assets/ai-lol-v3.gif" width="1200" alt="A small character thinks, blushes while typing, then smiles happily when the comment is complete: making stuff with ai lol.">
 </picture>
